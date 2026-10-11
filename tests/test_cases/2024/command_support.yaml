@@ -1,0 +1,18 @@
+model_year: 2024
+supported_commands_by_ecu:
+  "7E5":
+  - 7E5.226502
+  - 7E5.7ED.222526:EQV_HV_COOLANT_T
+  - 7E5.7ED.226050:EQV_HV_SOC
+  - 7E5.7ED.226053:EQV_HV_A
+  - 7E5.7ED.226071:EQV_CNVRTR_REQ_V
+  - 7E5.7ED.226075:EQV_HV_V
+  - 7E5.7ED.226504:EQV_SERVICE_DIST
+unsupported_commands_by_ecu:
+  "624":
+  - 624.5A4.220201
+  "7E2":
+  - 7E2.7EA.222001
+  - 7E2.7EA.222002
+  "7E5":
+  - 7E5.222005

@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.226071
+test_cases:
+- expected_values:
+    EQV_CNVRTR_REQ_V: 151
+  response: 7ED056260711798
+- expected_values:
+    EQV_CNVRTR_REQ_V: 287.9
+  response: 7ED056260712CFC
+- expected_values:
+    EQV_CNVRTR_REQ_V: 288
+  response: 7ED056260712D00

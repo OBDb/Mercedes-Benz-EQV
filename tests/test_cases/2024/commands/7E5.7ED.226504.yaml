@@ -1,0 +1,8 @@
+command_id: 7E5.7ED.226504
+test_cases:
+- expected_values:
+    EQV_SERVICE_DIST: 8000
+  response: 7ED056265041F40
+- expected_values:
+    EQV_SERVICE_DIST: 40000
+  response: 7ED056265049C40
