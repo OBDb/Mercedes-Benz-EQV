@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_V-Class"
+
+generations:
+  - name: "W447"
+    start_year: 2020
+    end_year: null
+    description: "The battery-electric version of the V-Class van."
