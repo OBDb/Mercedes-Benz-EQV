@@ -1,0 +1,8 @@
+command_id: 7E5.7ED.222526
+test_cases:
+- expected_values:
+    EQV_HV_COOLANT_T: 0
+  response: 7ED056225260000
+- expected_values:
+    EQV_HV_COOLANT_T: 21.75
+  response: 7ED0562252600AE

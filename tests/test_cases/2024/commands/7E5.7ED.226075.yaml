@@ -1,0 +1,14 @@
+command_id: 7E5.7ED.226075
+test_cases:
+- expected_values:
+    EQV_HV_V: 0.4
+  response: 7ED056260750010
+- expected_values:
+    EQV_HV_V: 352
+  response: 7ED056260753700
+- expected_values:
+    EQV_HV_V: 364.7
+  response: 7ED0562607538FC
+- expected_values:
+    EQV_HV_V: 365.5
+  response: 7ED05626075391C
